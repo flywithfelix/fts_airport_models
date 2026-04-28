@@ -1,4 +1,4 @@
-# 3D Models for External 3D Visualization
+# Airport 3D models for external 3D visualization
 
 This repository provides lightweight 3D models created with Blender.
 The models are intended for use in external 3D visualization and simulation environments.
